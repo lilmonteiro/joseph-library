@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name": "O Deus pródigo",
+        "author": {
+            "firstname": "Timothy",
+            "lastname": "Keller"
+        }, "editora": "Vida Nova",
+        "ano": "2018",
+        "pages": 112
+    },
+    {
+        "id": 2,
+        "name": "Mártires cristãs: Mulheres que deram a vida por amor a Jesus",
+        "author": {
+            "firstname": "Rute",
+            "lastname": "Salviano Almeida"
+        }, "editora": "Thomas Nelson",
+        "ano": "2022",
+        "pages": 224
+    },{
+        "id": 3,
+        "name": "Liturgia do ordinário: práticas sagradas na vida cotidiana",
+        "author": {
+            "firstname": "Tish",
+            "lastname": "Warren"
+        }, "editora": "Pilgrim",
+        "ano": "2021",
+        "pages": 224
+    },{
+        "id": 4,
+        "name": "Discipulado",
+        "author": {
+            "firstname": "Dietrich",
+            "lastname": "Bonhoeffer"
+        }, "editora": "Mundo Cristão",
+        "ano": "2016",
+        "pages": 256
+    } 
+]

@@ -1,0 +1,22 @@
+{
+  "name": "joseph-library",
+  "version": "1.0.0",
+  "description": "API Study, REST, Restful and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilmonteiro/joseph-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilmonteiro/joseph-library/issues"
+  },
+  "homepage": "https://github.com/lilmonteiro/joseph-library#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
