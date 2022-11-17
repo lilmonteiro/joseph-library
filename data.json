@@ -5,7 +5,8 @@
         "author": {
             "firstname": "Timothy",
             "lastname": "Keller"
-        }, "editora": "Vida Nova",
+        },
+        "editora": "Vida Nova",
         "ano": "2018",
         "pages": 112
     },
@@ -15,26 +16,53 @@
         "author": {
             "firstname": "Rute",
             "lastname": "Salviano Almeida"
-        }, "editora": "Thomas Nelson",
+        },
+        "editora": "Thomas Nelson",
         "ano": "2022",
         "pages": 224
-    },{
+    },
+    {
         "id": 3,
         "name": "Liturgia do ordinário: práticas sagradas na vida cotidiana",
         "author": {
             "firstname": "Tish",
             "lastname": "Warren"
-        }, "editora": "Pilgrim",
+        },
+        "editora": "Pilgrim",
         "ano": "2021",
         "pages": 224
-    },{
+    },
+    {
         "id": 4,
         "name": "Discipulado",
         "author": {
             "firstname": "Dietrich",
             "lastname": "Bonhoeffer"
-        }, "editora": "Mundo Cristão",
+        },
+        "editora": "Mundo Cristão",
         "ano": "2016",
         "pages": 256
-    } 
+    },
+    {
+        "id": 5,
+        "name": "Vida em comunhão",
+        "author": {
+            "firstname": "Dietrich",
+            "lastname": "Bonhoeffer"
+        },
+        "editora": "Mundo Cristão",
+        "ano": "2022",
+        "pages": 128
+    },
+    {
+        "id": 6,
+        "name": "Oração da noite",
+        "author": {
+            "firstname": "Tish",
+            "lastname": "Warren"
+        },
+        "editora": "Pilgrim",
+        "ano": "2022",
+        "pages": 128
+    }
 ]
